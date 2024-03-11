@@ -24,8 +24,8 @@ If you do not want admins or certain players to be kicked then you can add there
 
 ## Dependencies
 
-[![ps-ui](https://github.com/Project-Sloth/ps-ui)]
-[![okokNotify](https://okok.tebex.io/package/4724993)]
+[ps-ui](https://github.com/Project-Sloth/ps-ui)
+[okokNotify](https://okok.tebex.io/package/4724993)
 
 notifications can be changed easy by adding the exports from your notification script on line 15 and 21 
 Simply replace okokNotify 
