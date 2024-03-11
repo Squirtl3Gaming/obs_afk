@@ -22,6 +22,8 @@ If you do not want admins or certain players to be kicked then you can add there
     },
   ```
 
+Must remove -main of file name, Should look like this obs_afk
+
 ## Dependencies
 
 [ps-ui](https://github.com/Project-Sloth/ps-ui)
