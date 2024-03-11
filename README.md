@@ -15,10 +15,10 @@ If you do not want admins or certain players to be kicked then you can add there
 
   ```lua
     licenseID = {
-      ["license:xxxxxxx"] = true, -- Your license
-      ["license:zzzzzzz"] = true, -- More licenses
-      ["license:aaaaaaa"] = true, -- More licenses
-      ["license:bbbbbbb"] = true, -- More licenses
+      ["license:xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"] = true, -- Your rockstar License
+      ["license:xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"] = true, -- Admin rockstar License
+      ["license:xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"] = true, -- Admin rockstar License
+      ["license:xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"] = true, -- Admin rockstar License
     },
   ```
 
